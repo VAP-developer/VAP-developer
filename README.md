@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Víctor  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Víctor 👋 </b></h1>
 
 
 If you are curious about my profile, I will say that I am a creative, honest and effective person.
@@ -57,39 +57,33 @@ I am passionate about challenges and I never throw in the towel.
 
 
 
-
-## Si quereis ver alguno de mis trabajos para empresas/freelance como consultor de PowerBI podeis consultarlos aque abajo
-
+<h2 align="center"><b>If you want to see any of my work for companies/freelance as a PowerBI consultant, you can consult them below. 👇  </b></h2>
 
 
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="C:\Users\VICTOR\Documents\A_VAP\Power_BI\Imagenes\Final_Master.pnh" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+| Billing tracking |
+| ----------- |
+|<img src="https://github.com/VAP-developer/images/blob/main/src/Facturaci%C3%B3n.PNG" />|
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+| Market study |
+| ----------- |
+|<img src="https://github.com/VAP-developer/images/blob/main/src/Final_Master.PNG" />|
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+| Dash Supermarket |
+| ----------- |
+|<img src="https://github.com/VAP-developer/images/blob/main/src/Dash_Mercadona.PNG" />|
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+| Supermarket comparator |
+| ----------- |
+|<img src="https://github.com/VAP-developer/images/blob/main/src/Dash_1.PNG" />|
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+| Inventory study |
+| ----------- |
+|<img src="https://github.com/VAP-developer/images/blob/main/src/Anexo_X.PNG" />|
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
+
+
 
 
 ## If you are interested, contact me! 
