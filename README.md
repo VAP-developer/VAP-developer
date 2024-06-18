@@ -51,7 +51,7 @@ I am passionate about challenges and I never throw in the towel.
 - **Tools**:
 
   ![Static Badge](https://img.shields.io/badge/git-b?style=for-the-badge&logo=git&logoColor=white&color=%23F05032)
-  ![Static Badge](https://img.shields.io/badge/visual%20studio-b?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=%23007ACC)ç
+  ![Static Badge](https://img.shields.io/badge/visual%20studio-b?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=%23007ACC)
 
 </p>
 
