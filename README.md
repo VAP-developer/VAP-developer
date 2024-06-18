@@ -10,9 +10,9 @@ For today I am trying to improve my skills as a developer and follow a data-orie
 I am passionate about challenges and I never throw in the towel.
 ## If you are interested, contact me! 
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+## Si quereis ver alguno de mis trabajos para empresas/freelance como consultor de PowerBI podeis consultarlos aque abajo
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+
 
 
 | Repository Activity Trends | Collaborative Productivity - Last 28 days |
