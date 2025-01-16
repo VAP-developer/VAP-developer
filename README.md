@@ -20,7 +20,6 @@ I am passionate about challenges and I never throw in the towel.
   ![Static Badge](https://img.shields.io/badge/Python-b?style=for-the-badge&logo=python&logoColor=white&color=%233776AB)
   ![Static Badge](https://img.shields.io/badge/c-b?style=for-the-badge&logo=c&logoColor=white&color=%23A8B9CC)
   ![Static Badge](https://img.shields.io/badge/html5-b?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
-  ![Static Badge](https://img.shields.io/badge/css3-b?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
   
 
 <br>
